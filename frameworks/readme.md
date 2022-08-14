@@ -1,0 +1,3 @@
+# Frameworks
+## This folder is dedicated to learning of various programming frameworks out there. They could be backend frameworks like nestjs, fastapi etc, or they could be frontend frameworks like, react, vue, angular. 
+## `Fundamental-conept` folder is dedicated to learning fundamental concept on which all the frontend or all the backend frameworks work on. The core concepts and design on which the frameworks are designed. What does the framework achieve exactly. Why is it designed the way it is and so on.

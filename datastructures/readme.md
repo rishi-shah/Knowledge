@@ -1,0 +1,1 @@
+# This is dedicated area for learning data structure. The core conecpt for studying the ways in which various data can be store. What data structure is best for searching and what are best for sorting and so on.

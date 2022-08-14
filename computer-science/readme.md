@@ -1,0 +1,1 @@
+# This area is dedicated to learning of fundamentals of computers. The science and maths behind it. Why does computer only understand bits or binary? How does binary work, how is binary data able to store anything from - bool, string to audio, videos, games etc. This is a very core/basic/fundamental learning.
